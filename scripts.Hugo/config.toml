@@ -273,24 +273,17 @@ anchor = "smart"
   # used in layouts/partials/footer.html
   # uses markdownify
   aboutUs   = '''
-About_line_01
-
-  * About_line_02
-  * About_line_03
-
-About_line_04
-
+About our ESL class
               '''
 
   address   = '''
-The_assress_of_ChinaDSF01
-The_assress_of_ChinaDSF02
+The_assress_of ESL
               '''
   footerContactButton = "contact/index.md"
 
   # used in layouts/partials/footer.bottom.html
-  bottomLeft  = "Copyright (c) 2019, The_China_DSF_copyright_01"
-  bottomRight = 'created with [ChinaDSF](hddps://www.chinadsf.org) '
+  bottomLeft  = "no Copyright"
+  bottomRight = "no Copyright"
 
 
   # colors
@@ -785,7 +778,7 @@ The_assress_of_ChinaDSF02
   enableFront    = true
   title    = "ESL class"
   subtitle = '''
-Evergreen Valley College , ESL , Spring 2020
+quick guide : select "byTag" or "byDate" on the top of menu.
 '''
 
 [params.seeMore]
