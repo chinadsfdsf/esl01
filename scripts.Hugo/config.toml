@@ -778,7 +778,7 @@ The_assress_of ESL
   enableFront    = true
   title    = "ESL class"
   subtitle = '''
-quick guide : select "byTag" or "byDate" on the top of menu.
+quick guide : select "byTag" or "byDate" on the top-left of menu.
 '''
 
 [params.seeMore]
