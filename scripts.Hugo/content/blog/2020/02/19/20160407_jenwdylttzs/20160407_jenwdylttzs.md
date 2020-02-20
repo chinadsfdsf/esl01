@@ -19,6 +19,13 @@ categories:
 <br>
 
 
+# with subtitle :
+
+{{< mymp4o mp4="20160407_jenwdylttzs_with_subtitle.mp4"
+text="len 12048424    12M"
+>}}
+
+# without subtitle :
 {{< mymp4o mp4="20160407_jenwdylttzs.mp4"
 text="len 12048424    12M"
 >}}
