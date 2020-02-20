@@ -23,7 +23,7 @@ categories:
 
 # with subtitle :
 {{< mymp4o mp4="20160407_jenwdylttzs_with_subtitle.mp4"
-text="len 12048424    12M"
+text="len 12200135    12M"
 >}}
 
 <br> <br> <br>
