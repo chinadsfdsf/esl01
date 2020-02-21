@@ -1,0 +1,43 @@
+---
+title : "Listen_Then:Whaddaya Say? Chapter 28 "
+date:        2020-02-20T22:05:32-07:00
+tags:
+ - youtube
+ - Listen_Then
+ - youtube_Listen_Then
+ - 202002
+ - 20200220
+ - 20200220_22
+categories:
+ - 20200220
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="Listen_Then:🌟 ►FREE DOWNLOAD https://www.listenthen.net/  Whaddaya Say?, 2nd edition, by Nina Weinstein, helps intermediate to high-intermediate students understand English as it is really spoken. This easy-to-use listening program familiarizes students with the rapid speech commonly used in everyday life. In particular, the book introduces students to the most common reduced forms – such as *gonna (“going to” + verb), *wanna (natural speed pronunciation for “want to”), and *hafta (“have to”) – fully contextualized in conversations that are both practical and entertaining.  Using language students encounter in everyday situations, Whaddaya Say? explains the most common pronunciation changes that occur when English speakers talk at a natural speed. This allows all students to improve their comprehension of spoken English, both inside and outside the classroom.  Each of the text’s 30 lessons includes an audio segment that introduces new reduced forms, followed by comprehension questions and practice questions. "
+>}}
+<br>
+
+
+{{< mymp4o mp4="20171119_28s_golgzhbruwm.mp4"
+text="len 13866398    14M"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="Listen_Then:Whaddaya Say? Chapter 28 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=GoLgzhbRuWM"
+en="the origin source link" cn="原始來源網址"
+>}}
+>}}
+
+
+<br>
+
