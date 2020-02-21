@@ -19,8 +19,7 @@ categories:
 <br>
 
 
-{{< mymp4o mp4="20171119_20s_drmuvwlhzhi.mp4"
-text="len 13890428    14M"
+{{< my2mp4withjpgdownload mp4="20171119_20s_drmuvwlhzhi.mp4"
 >}}
 
 {{< my2jpgexist "xx1.jpg" >}}<br>
@@ -34,8 +33,6 @@ text="len 13890428    14M"
 <br>
 
 {{< my2linktextonly link="https://www.youtube.com/watch?v=DrMUvwlhzhI"
-en="the origin source link" cn="原始來源網址"
->}}
 >}}
 
 
