@@ -43,8 +43,7 @@ text="len 12048424    12M"
 >}}
 <br>
 
-{{< mydiv4o link="http://www.youtube.com/watch?v=jenWdylTtzs"
-text="source 原始來源網址"
+{{< my2linktextonly link="http://www.youtube.com/watch?v=jenWdylTtzs"
 >}}
 
 
